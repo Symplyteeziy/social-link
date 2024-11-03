@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Inter-VariableFont_slnt,wght' sans-serif;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    display: flex;
+    background: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+}
+.con{
+    padding: 30px;
+}
+.container{
+    border-radius: 15px;
+    width: 400px;
+    background: hsl(0, 0%, 12%);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.profile{
+    
+    padding-bottom: 36px;
+}
+.profile-image{
+    height: 120px;
+    border-radius: 400px;
+}
+.name{
+    font-family: 'Figtree-ExtraBold' sans-serif;
+    padding-bottom: 5px;
+}
+.text{
+    padding-bottom: 20px;
+}
+.city{
+    padding-bottom: 26px;
+    color: hsl(75, 94%, 57%);
+    font-size: 18px;
+    font-family: 'Inter-Regular' sans-serif;
+}
+.front-link{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background: hsl(0, 0%, 20%);
+}
+.front-link:hover{
+    background: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+.front{
+    padding: 15px;
+}
+
+.github-link {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background: hsl(0, 0%, 20%);
+}
+.github-link:hover{
+    background: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+.github {
+    padding: 15px;
+}
+
+.linkedin-link {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background: hsl(0, 0%, 20%);
+}
+.linkedin-link:hover{
+    background: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+.linkedin {
+    padding: 15px;
+}
+
+.x-link {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background: hsl(0, 0%, 20%);
+}
+.x-link:hover{
+    background: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+    font-weight: bold;
+}
+
+.x{
+    padding: 15px;
+}
+
+.insta-link {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background: hsl(0, 0%, 20%);
+}
+.insta-link:hover{
+    background: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+.insta{
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+}
+a:hover{
+    color: hsl(0, 0%, 20%);
+    font-weight: bold;
+}
+.git-con{
+    padding: 8px;
+}
+.front-con{
+    padding: 8px;
+}
+.link-con{
+    padding: 8px;
+}
+.insta-con{
+    padding: 8px;
+}
+.x-con{
+    padding: 8px;
+}
